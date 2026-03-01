@@ -242,3 +242,6 @@ application-*.yaml
 ### Environment variables ###
 .env
 .env.*
+
+# Created by https://www.toptal.com/developers/gitignore/api/react,node,windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=react,node,windows
